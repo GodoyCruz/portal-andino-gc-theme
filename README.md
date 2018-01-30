@@ -1,13 +1,11 @@
-# portal-andino-theme
+# portal-andino-gc-theme
 
-Repositorio de la extensión del Portal Andino de la República Argentina para [CKAN](http://ckan.org/). Este proyecto se encarga de modificaciones al ruteo de la aplicación web, cambios visuales a la interfaz, customización del portal, analytics y gestión de usuarios, permisos y roles, entre otros. Este repositorio *no* constituye el proyecto entero. El repositorio central del proyecto del Portal Andino es [portal-andino](https://github.com/datosgobar/portal-andino)
+Repositorio de la extensión del Portal Andino de la República Argentina para [CKAN](http://ckan.org/) adaptado para Godoy Cruz. Este proyecto se encarga de modificaciones al ruteo de la aplicación web, cambios visuales a la interfaz, customización del portal, analytics y gestión de usuarios, permisos y roles, entre otros. Este repositorio *no* constituye el proyecto entero. El repositorio central del proyecto del Portal Andino es [portal-andino](https://github.com/datosgobar/portal-andino)
 
 - [Instalación](#instalaci%C3%B3n)
 - [Desarrollo](#desarrollo)
 - [Uso del theme](#uso-del-theme)
 - [Créditos](#cr%C3%A9ditos)
-- [Consultas sobre Andino](#consultas-sobre-andino)
-- [Contacto](#contacto)
 
 ## Instalación
 
@@ -51,15 +49,3 @@ Está disponible una [guía de uso](./docs/guia_uso_portal_andino.md) dentro de 
 ## Créditos
 
 Este repositorio es un fork de la extensión de CKAN de [datos.gob.ar](https://github.com/datosgobar/datos.gob.ar)
-
-## Consultas sobre Andino
-
-**Andino es un portal abierto en constante desarrollo** para ser usado por toda la comunidad de datos. Por eso, cuando incorporamos una nueva mejora, **cuidamos mucho su compatibilidad con la versión anterior**.
-
-Como la comunidad de datos es grande, **por ahora no podemos dar soporte técnico frente a modificaciones particulares del código**. Sin embargo, **podés contactarnos para despejar dudas**.
-
-## Contacto
-
-Te invitamos a [crearnos un issue](https://github.com/datosgobar/portal-andino-theme/issues/new?title=Encontre%20un%20bug%20en%20andino) en caso de que encuentres algún bug o tengas feedback de alguna parte de `portal-andino-theme`.
-
-Para todo lo demás, podés mandarnos tu comentario o consulta a [datos@modernizacion.gob.ar](mailto:datos@modernizacion.gob.ar).
