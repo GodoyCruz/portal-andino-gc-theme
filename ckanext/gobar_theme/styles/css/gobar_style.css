@@ -8452,7 +8452,7 @@ div#background-container {
           transition-duration: 150ms; }
           .filters-container .search-filter ul a li:hover {
             background: #e5e5e5;
-            color: #17b2f8; }
+            color: #70326F; }
           .filters-container .search-filter ul a li .close-filter {
             display: none; }
           .filters-container .search-filter ul a li.active {
@@ -8620,9 +8620,9 @@ div#background-container {
 .dataset-list .dataset-item:hover {
   color: inherit; }
   .dataset-list .dataset-item:hover .dataset-border {
-    border-right-color: #0695d6; }
+    border-right-color: #70326F; }
     .dataset-list .dataset-item:hover .dataset-border .dataset-content .dataset-title {
-      color: #0695d6; }
+      color: #70326F; }
 
 #title.package-title .background-overlay {
   padding-bottom: 40px; }
