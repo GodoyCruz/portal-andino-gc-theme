@@ -7211,7 +7211,7 @@ div#background-container {
         .featured-groups .group-container .group.inactive .group-text svg path {
           fill: #cccccc !important; }
       .featured-groups .group-container .group.active:hover {
-        background: #0695d6;
+        background: #a22c79;
         color: white; }
         .featured-groups .group-container .group.active:hover svg path, .featured-groups .group-container .group.active:hover svg circle, .featured-groups .group-container .group.active:hover svg polygon {
           fill: white !important; }
