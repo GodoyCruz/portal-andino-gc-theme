@@ -6535,10 +6535,10 @@ div.svg-tooltip {
           display: inline-block;
           font-size: 28px; }
         #footer #footer-spacer .footer-section.logo a.social-link:hover {
-          background: #0695d6;
+          background: #a22c79;
           color: white; }
       #footer #footer-spacer .footer-section.links-internos a:hover {
-        color: #17b2f8; }
+        color: #a22c79; }
       #footer #footer-spacer .footer-section.links-externos {
         text-align: right; }
         #footer #footer-spacer .footer-section.links-externos .ckan-link {
@@ -6546,9 +6546,9 @@ div.svg-tooltip {
           color: #767676;
           text-align: right; }
         #footer #footer-spacer .footer-section.links-externos .ckan-name {
-          color: #0695d6; }
+          color: #a22c79; }
           #footer #footer-spacer .footer-section.links-externos .ckan-name:hover {
-            color: #17b2f8; }
+            color: #a22c70; }
       @media (min-width: 768px) {
         #footer #footer-spacer .footer-section {
           text-align: left; } }
