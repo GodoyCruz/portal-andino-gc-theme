@@ -6356,7 +6356,7 @@ div.svg-tooltip {
       #header #header-spacing .header-links .header-link:hover + .header-link .user-divisor {
         border-color: transparent; }
       #header #header-spacing .header-links .header-link {
-        color: #0695d6;
+        color: #a22c79;
         margin: 0;
         padding: 0 0.3em;
         font-size: 85%;
@@ -6367,7 +6367,7 @@ div.svg-tooltip {
         vertical-align: bottom; }
         @media (min-width: 768px) {
           #header #header-spacing .header-links .header-link:hover, #header #header-spacing .header-links .header-link.active {
-            background: #0695d6;
+            background: #a22c79;
             color: white; }
             #header #header-spacing .header-links .header-link:hover .user-logo path, #header #header-spacing .header-links .header-link.active .user-logo path {
               fill: white !important; } }
