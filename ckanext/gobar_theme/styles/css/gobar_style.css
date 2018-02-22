@@ -7070,7 +7070,7 @@ div#background-container {
         color: #999999;
         font-weight: 300; }
     #title #searcher form button {
-      background: #0695d6;
+      background: #a22c79;
       border: none;
       position: absolute;
       top: 0;
@@ -7080,7 +7080,7 @@ div#background-container {
       border-bottom-right-radius: 3px;
       padding: 2px 8px; }
       #title #searcher form button:hover {
-        background: #17b2f8; }
+        background: #a22c79; }
       #title #searcher form button .search-icon {
         width: auto;
         height: 100%;
