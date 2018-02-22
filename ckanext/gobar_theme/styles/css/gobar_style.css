@@ -5661,7 +5661,7 @@ a {
 
 a:hover {
   text-decoration: none !important;
-  color: #17b2f8; }
+  color: #70326F; }
 
 div.no-padding {
   padding: 0; }
@@ -6547,7 +6547,7 @@ div.svg-tooltip {
         #footer #footer-spacer .footer-section.links-externos .ckan-name {
           color: #a22c79; }
           #footer #footer-spacer .footer-section.links-externos .ckan-name:hover {
-            color: #a22c70; }
+            color: #70326F; }
       @media (min-width: 768px) {
         #footer #footer-spacer .footer-section {
           text-align: left; } }
