@@ -6517,25 +6517,24 @@ div.svg-tooltip {
   top: 0; }
 #footer #footer-spacer .footer-section.logo .logo-edit-container img {
   max-width: 300px;
-#footer #footer-spacer .footer-section.logo svg.edit-svg path {
   margin-bottom: 20px; }
+#footer #footer-spacer .footer-section.logo svg.edit-svg path {
   fill: #999999; }
 #footer #footer-spacer .footer-section.logo a.social-link {
   display: inline-block;
   -o-border-radius: 4px;
   -moz-border-radius: 4px;
-  border-radius: 4px;
   -webkit-border-radius: 4px;
+  border-radius: 4px;
   padding: 8px;
   text-align: center;
   width: 46px;
   height: 46px; }
 #footer #footer-spacer .footer-section.logo a.social-link i {
-  font-size: 28px; }
   display: inline-block;
+  font-size: 28px; }
 #footer #footer-spacer .footer-section.logo a.social-link:hover {
   background: #a22c79;
-#footer #footer-spacer .footer-section.links-internos a:hover {
   color: white; }
 #footer #footer-spacer .footer-section.links-internos a:hover {
   color: #70326F; }
